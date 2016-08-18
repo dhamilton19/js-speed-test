@@ -10,3 +10,6 @@ All data that was used has been removed due to its potentially sensitive nature.
 2. `npm install`
 3. Set up json-db: https://github.com/dhamilton91/json-db
 4. `npm start`
+
+Unfortunately there is no router to handle going between different parts of the app.
+One must go into /app/app.js and manually change the `require('./manualTest');` at the bottom to switch tests.
