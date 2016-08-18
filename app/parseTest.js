@@ -2,6 +2,8 @@ require('whatwg-fetch');
 
 let testNum = 0;
 
+document.getElementById('test').style.visibility = 'hidden';
+
 function begin(){
     json_test('dot_notation');
     json_test('bracket_notation');

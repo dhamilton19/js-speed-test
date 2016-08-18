@@ -1,5 +1,7 @@
 require('whatwg-fetch');
 
+document.getElementById('test').style.visibility = 'hidden';
+
 function test(){
     const startTime = Date.now();
     let downloadTime;

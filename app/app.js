@@ -19,4 +19,4 @@ function consoleFunctionSetup(logger, func, outputClass){
 }
 
 
-require('./manualTest');
+require('./viewGraph');

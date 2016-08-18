@@ -46,7 +46,7 @@ function results(downloadTime, byteTime, totalTime, characters){
     })
         .then(() => {
             if(testNum < numTests){
-                setTimeout(test, 60000);
+                setTimeout(test, 200);
             }
             else{
                 console.log('Completed')

@@ -7,7 +7,7 @@ const testHelper = require('./testHelper');
 
 Db.init({directory: config.directory});
 
-const data = require('data/data.js');
+const data = require('./data/data.js');
 const dictionary = {
   '1': require('./data/1'),
   '2': require('./data/2'),
