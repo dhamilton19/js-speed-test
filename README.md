@@ -1,6 +1,7 @@
 # JS Speed Test
 
-This project was used to test the speed of javascript and json parsing for Android, iOS and Desktop.
+This project was used to test the speed of javascript and json parsing on Android, iOS and Desktop.
+All data that was used has been removed due to its potentially sensitive nature.
 
 
 ##Installation
