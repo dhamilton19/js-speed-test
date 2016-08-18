@@ -1,14 +1,14 @@
 {
   "name": "js-speed-test",
   "version": "0.2.0",
-  "description": "JavaScript Speed Test",
+  "description": "JS Speed Test",
   "author": "David Hamilton",
   "scripts": {
     "start": "cross-env NODE_ENV=development UV_THREADPOOL_SIZE=100 node ./server"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhamilton91/javascript-speed-test.git"
+    "url": "https://github.com/dhamilton91/js-speed-test.git"
   },
   "devDependencies": {
     "babel-cli": "^6.3.17",
